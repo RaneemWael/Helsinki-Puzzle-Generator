@@ -1,4 +1,5 @@
 # Helsinki-Puzzle-Generator
+A prolog code that generates a Helsinki puzzle of size N.
 
 ## Description:
 - Given a square grid of size N, where the horizontal rows are numbered 1 to N from top to bottom and the vertical columns are numbered 1 to N from left to right.
